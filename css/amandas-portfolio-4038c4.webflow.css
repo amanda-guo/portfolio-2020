@@ -1083,11 +1083,15 @@ h7 {
 }
 
 .navbar-teams {
-  position: static;
+ position: static;
   left: 0%;
   top: 0%;
   right: 0%;
   bottom: auto;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
   border: 1px none #fff;
   border-radius: 0px;
   background-color: transparent;
