@@ -1,1 +1,1 @@
-# portfolio-2020
+# amanda's design portfolio
