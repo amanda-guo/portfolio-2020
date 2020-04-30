@@ -1,1 +1,1 @@
-# amanda's design portfolio
+# Amanda's Design Portfolio
