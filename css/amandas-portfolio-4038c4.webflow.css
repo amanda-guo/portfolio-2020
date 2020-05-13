@@ -83,7 +83,9 @@ h7 {
 }
 
 .h2 {
-  padding-top: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 24px;
   font-family: Montserrat, sans-serif;
   color: #333;
   font-size: 20px;
@@ -273,9 +275,9 @@ h7 {
 }
 
 .section-4-about {
-  background-image: url('../images/about-rect.png'), url('https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png');
-  background-position: 0px 0px, 0px 0px;
-  background-size: 125px, 125px;
+  background-image: url('../images/about-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
 }
 
 .text-about {
@@ -1594,6 +1596,72 @@ h7 {
   background-size: 125px;
 }
 
+.section-12 {
+  background-image: url('../images/graphics-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-13 {
+  background-image: url('../images/about-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-14 {
+  background-image: url('../images/bread-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-15 {
+  background-image: url('../images/grocerygo-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-16 {
+  background-image: url('../images/microsoftteams-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-17 {
+  background-image: url('../images/tecsys-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-18 {
+  background-image: url('../images/starterhacks-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-19 {
+  background-image: url('../images/whatsapp-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-20 {
+  background-image: url('../images/about-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-21 {
+  background-image: url('../images/cibc-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.section-22 {
+  background-image: url('../images/about-rect.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
 @media screen and (max-width: 991px) {
   .icon {
     background-image: url('../images/about-rect.png');
@@ -2256,7 +2324,7 @@ h7 {
     padding-top: 24px;
   }
   .hero-overlay-bread {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
   .columns-bread {
@@ -2278,34 +2346,34 @@ h7 {
     padding-top: 0px;
   }
   .hero-overlay-gg {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
   .hero-overlay-microsoft {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
   .hero-overlay-tec {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
   .hero-overlay-sh {
-    height: 90vh;
+    height: 130vh;
     padding: 0px 20px;
   }
   .hero-overlay-whatsappp {
-    height: 80vh;
+    height: 110vh;
     padding: 0px 20px;
   }
   .image-5-whatsapp {
     padding-top: 0px;
   }
   .hero-overlay-cibcnews {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
   .hero-overlay-graphic {
-    height: 70vh;
+    height: 100vh;
     padding: 0px 20px;
   }
 }
@@ -2328,6 +2396,9 @@ h7 {
     display: block;
     margin-left: 0px;
     padding-top: 0px;
+  }
+  .h2 {
+    padding-top: 24px;
   }
   .footer {
     padding-right: 20px;
@@ -2395,7 +2466,7 @@ h7 {
     padding-left: 0px;
   }
   .section-9 {
-    margin-top: -74px;
+    margin-top: 0px;
   }
   .section-10 {
     margin-top: -74px;
@@ -2707,7 +2778,7 @@ h7 {
     height: 70vh;
   }
   .hero-overlay-sh {
-    height: 90vh;
+    height: 100vh;
   }
   .hero-overlay-whatsappp {
     height: 70vh;
@@ -2723,5 +2794,10 @@ h7 {
   }
   .hero-overlay-graphic {
     height: 70vh;
+  }
+  .section-12 {
+    background-image: url('../images/graphics-rect.png');
+    background-position: 0px 0px;
+    background-size: 125px;
   }
 }
